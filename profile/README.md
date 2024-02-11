@@ -1,6 +1,8 @@
 <img src="https://github.com/py-psychological-help/.github/blob/main/dpogovorim_logo.png" width=232 height=32>
 
-# «Давай поговорим» 🙋‍♀️
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+# «Давай поговорим» 🙋‍♀️ 
 Веб-приложение для оказания психологической помощи «Давай поговорим» позволяет пользователю анонимно обратиться к психологу в формате онлайн-консультации в чате, а зарегистрированному и верифицированному психологу ему помочь.
 
 Приложение разрабатывалось в рамках участия в мастерской программирования Яндекс Практикума и было доведено до стадии MVP.
@@ -12,7 +14,7 @@
 <a href="https://github.com/Ilyaradaev">Илья Радаев</a>
 
 <a href="https://github.com/PolinaTuma">Полина Туманянц</a>
-### UX/UI Designers
+### UX/UI Designers 
 <a href="https://github.com/DashaDyomina">Дарья Демина</a>
 
 <a href="https://github.com/krecta">Карина Сангова</a>
@@ -44,7 +46,7 @@
 <a href="https://github.com/StepanenkoStanislav">Станислав Степаненко</a>
 
 <a href="https://github.com/avpech">Артур Печенюк</a>
-### QA
+### QA 
 <a href="https://github.com/AnnaRoteschild">Анна Ротшильд</a>
 
 <a href="https://github.com/owk4rce">Леонид Шлангман</a>
