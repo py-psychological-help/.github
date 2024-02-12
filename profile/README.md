@@ -18,51 +18,15 @@
 
 ## Наша команда 🧙
 ### Project Managers
-<a href="https://github.com/Ilyaradaev">Илья Радаев</a>
-
-<a href="https://github.com/PolinaTuma">Полина Туманянц</a>
+<a href="https://github.com/Ilyaradaev">Илья Радаев</a>, <a href="https://github.com/PolinaTuma">Полина Туманянц</a>
 ### UX/UI Designers 
-<a href="https://github.com/DashaDyomina">Дарья Демина</a>
-
-<a href="https://github.com/krecta">Карина Сангова</a>
-
-<a href="https://github.com/SvetlanaGarkushina">Светлана Гаркушина</a>
+<a href="https://github.com/DashaDyomina">Дарья Демина</a>, <a href="https://github.com/krecta">Карина Сангова</a>, <a href="https://github.com/SvetlanaGarkushina">Светлана Гаркушина</a>
 ### Frontend developers
-<a href="https://github.com/yuli-ageeva">Юлия Агеева</a> 
-
-<a href="https://github.com/EZzzKryak">Александр Маницын</a>
-
-<a href="https://github.com/AnnaMaltseva1992">Анна Мальцева</a>
-
-<a href="https://github.com/nuncame">Виктория Маркова</a>
-
-<a href="https://github.com/rodandr13">Андрей Родителев</a>
-
-<a href="https://github.com/Nail-Khusainov">Наиль Хусаинов</a>
-
-<a href="https://github.com/YuriiDereguzov">Юрий Дерегузов</a>
+<a href="https://github.com/yuli-ageeva">Юлия Агеева</a>, <a href="https://github.com/EZzzKryak">Александр Маницын</a>, <a href="https://github.com/AnnaMaltseva1992">Анна Мальцева</a>, <a href="https://github.com/nuncame">Виктория Маркова</a>, <a href="https://github.com/rodandr13">Андрей Родителев</a>, <a href="https://github.com/Nail-Khusainov">Наиль Хусаинов</a>, <a href="https://github.com/YuriiDereguzov">Юрий Дерегузов</a>
 ### Backend developers
-<a href="https://github.com/sergey-xx">Сергей Мазилин</a>
-
-<a href="https://github.com/StanislavBerezovskii">Станислав Березовский</a>
-
-<a href="https://github.com/Chinpakamon">Владислав Закиев</a>
-
-<a href="https://github.com/AlexBatanov">Александр Батанов</a>
-
-<a href="https://github.com/StepanenkoStanislav">Станислав Степаненко</a>
-
-<a href="https://github.com/avpech">Артур Печенюк</a>
+<a href="https://github.com/sergey-xx">Сергей Мазилин</a>, <a href="https://github.com/StanislavBerezovskii">Станислав Березовский</a>, <a href="https://github.com/Chinpakamon">Владислав Закиев</a>, <a href="https://github.com/AlexBatanov">Александр Батанов</a>, <a href="https://github.com/StepanenkoStanislav">Станислав Степаненко</a>, <a href="https://github.com/avpech">Артур Печенюк</a>
 ### QA Engineers
-<a href="https://github.com/AnnaRoteschild">Анна Ротшильд</a>
-
-<a href="https://github.com/owk4rce">Леонид Шлангман</a>
-
-<a href="https://github.com/landsknecht0748">Никита Волков</a>
-
-<a href="https://github.com/Sogainame">Фёдор Шмурыгин</a>
-
-<a href="https://github.com/SJuliaann">Юлия Суржина</a>
+<a href="https://github.com/AnnaRoteschild">Анна Ротшильд</a>, <a href="https://github.com/owk4rce">Леонид Шлангман</a>, <a href="https://github.com/landsknecht0748">Никита Волков</a>, <a href="https://github.com/Sogainame">Фёдор Шмурыгин</a>, <a href="https://github.com/SJuliaann">Юлия Суржина</a>
 
 <!--
 
